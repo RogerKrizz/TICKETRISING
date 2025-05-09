@@ -1,0 +1,7 @@
+customer VAILLANT 123456 vaillant 2025-05-12 abc@gmail.com 235435 
+customer radha 12345 radhakrishnan 2025-05-13 radha@gmail.com 465676
+customer sivabala siva sivabala 2025-05-23 sivabala@gmail.com 43545
+customer abc 1234567 abcdef 2025-05-06 abc@gmail.com 675686
+employee radhak 123 radhakrishnan 2025-03-12 radha@gmail.com 365434
+customer ravi Thenisha123 ravikumar 2000-05-08 ravikumar@gmail.com 2410779
+customer nambuselvi nambu nambuselvi 2007-01-21 nambu@gmail.com 344456 

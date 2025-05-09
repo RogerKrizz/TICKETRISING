@@ -1,0 +1,40 @@
+Ticket ID: 126055
+Service: Printing
+Pages: 10
+Copies: 2
+Username: radhak
+Notes: jdckjd
+Submitted Date: 2025-05-08
+Submitted Time: 18:30:12
+Status: Closed
+----------------------------
+Ticket ID: 126257
+Service: Photocopying
+Pages: 2
+Copies: 1
+Username: radhakr
+Notes: jdckjdvfver
+Submitted Date: 2025-05-08
+Submitted Time: 18:31:14
+Status: Pending
+----------------------------
+Ticket ID: 114441
+Service: Printing
+Pages: 3
+Copies: 4
+Username: gsysry
+Notes: hthtdytj
+Submitted Date: 2025-05-08
+Submitted Time: 20:18:10
+Status: Pending
+----------------------------
+Ticket ID: 126164
+Service: Printing
+Pages: 2
+Copies: 1
+Username: bgfgbt
+Notes: c  cdb
+Submitted Date: 2025-05-08
+Submitted Time: 21:18:00
+Status: Pending
+----------------------------
